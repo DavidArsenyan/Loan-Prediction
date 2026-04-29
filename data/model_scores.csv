@@ -1,0 +1,121 @@
+client_id,actual_label,oof_probability,final_probability,predicted_label,risk_tier,outcome,correct
+1,1,0.5226,0.979,1,Medium,TP,True
+2,0,0.7083,0.0249,1,Medium,FP,False
+3,0,0.218,0.0013,0,Very Low,TN,True
+4,0,0.218,0.0011,0,Very Low,TN,True
+5,0,0.4839,0.0067,0,Low,TN,True
+6,1,0.8392,0.9974,1,High,TP,True
+7,0,0.5801,0.0195,1,Medium,FP,False
+8,0,0.2605,0.0157,0,Low,TN,True
+9,0,0.4192,0.0149,0,Low,TN,True
+10,0,0.3724,0.0095,0,Low,TN,True
+11,1,0.6809,0.9923,1,Medium,TP,True
+12,0,0.308,0.0031,0,Low,TN,True
+13,0,0.4595,0.0041,0,Low,TN,True
+14,1,0.791,0.9994,1,High,TP,True
+15,1,0.9535,0.9992,1,High,TP,True
+16,0,0.475,0.0081,0,Low,TN,True
+17,0,0.2514,0.0035,0,Low,TN,True
+18,0,0.1613,0.0069,0,Very Low,TN,True
+19,1,0.5435,0.9983,1,Medium,TP,True
+20,0,0.0556,0.0017,0,Very Low,TN,True
+21,1,0.625,0.9961,1,Medium,TP,True
+22,0,0.4666,0.0194,0,Low,TN,True
+23,0,0.1666,0.0005,0,Very Low,TN,True
+24,0,0.0225,0.0004,0,Very Low,TN,True
+25,1,0.5272,0.9887,1,Medium,TP,True
+26,1,0.8331,0.994,1,High,TP,True
+27,0,0.4595,0.0015,0,Low,TN,True
+28,0,0.4595,0.0125,0,Low,TN,True
+29,1,0.4595,0.9336,0,Low,FN,False
+30,0,0.3271,0.0091,0,Low,TN,True
+31,1,0.791,0.9885,1,High,TP,True
+32,1,0.475,0.9728,0,Low,FN,False
+33,1,0.3305,0.965,0,Low,FN,False
+34,1,0.8282,0.9961,1,High,TP,True
+35,0,0.308,0.0061,0,Low,TN,True
+36,1,0.5435,0.9971,1,Medium,TP,True
+37,0,0.2295,0.0043,0,Very Low,TN,True
+38,1,0.9437,0.9976,1,High,TP,True
+39,0,0.4971,0.0134,0,Low,TN,True
+40,1,0.8142,0.9978,1,High,TP,True
+41,1,0.8638,0.999,1,High,TP,True
+42,1,0.371,0.9729,0,Low,FN,False
+43,0,0.2315,0.0012,0,Very Low,TN,True
+44,1,0.8236,0.9987,1,High,TP,True
+45,0,0.308,0.008,0,Low,TN,True
+46,0,0.3654,0.0056,0,Low,TN,True
+47,1,0.7425,0.995,1,Medium,TP,True
+48,1,0.9767,0.9992,1,High,TP,True
+49,0,0.2797,0.0161,0,Low,TN,True
+50,0,0.308,0.0087,0,Low,TN,True
+51,1,0.3844,0.9697,0,Low,FN,False
+52,1,0.5119,0.9925,1,Medium,TP,True
+53,1,0.6503,0.9964,1,Medium,TP,True
+54,0,0.3202,0.0078,0,Low,TN,True
+55,1,0.5329,0.9911,1,Medium,TP,True
+56,1,0.8975,0.9973,1,High,TP,True
+57,0,0.5236,0.0242,1,Medium,FP,False
+58,1,0.6879,0.997,1,Medium,TP,True
+59,1,0.7389,0.9944,1,Medium,TP,True
+60,0,0.0805,0.0021,0,Very Low,TN,True
+61,0,0.0565,0.0025,0,Very Low,TN,True
+62,0,0.1417,0.0044,0,Very Low,TN,True
+63,1,0.6503,0.9957,1,Medium,TP,True
+64,1,0.308,0.9786,0,Low,FN,False
+65,1,0.9778,0.9987,1,High,TP,True
+66,1,0.6584,0.994,1,Medium,TP,True
+67,0,0.0559,0.0125,0,Very Low,TN,True
+68,1,0.5072,0.9943,1,Medium,TP,True
+69,1,0.8123,0.9978,1,High,TP,True
+70,1,0.669,0.9974,1,Medium,TP,True
+71,1,0.5435,0.9985,1,Medium,TP,True
+72,1,0.5358,0.9844,1,Medium,TP,True
+73,1,0.791,0.9987,1,High,TP,True
+74,1,0.604,0.9987,1,Medium,TP,True
+75,1,0.5415,0.9945,1,Medium,TP,True
+76,0,0.3473,0.0101,0,Low,TN,True
+77,0,0.4595,0.0008,0,Low,TN,True
+78,0,0.1136,0.006,0,Very Low,TN,True
+79,0,0.4725,0.02,0,Low,TN,True
+80,1,0.7545,0.9993,1,High,TP,True
+81,0,0.475,0.0173,0,Low,TN,True
+82,1,0.9706,0.9947,1,High,TP,True
+83,0,0.4595,0.0021,0,Low,TN,True
+84,1,0.7273,0.9967,1,Medium,TP,True
+85,1,0.791,0.9988,1,High,TP,True
+86,0,0.1754,0.0008,0,Very Low,TN,True
+87,0,0.598,0.0324,1,Medium,FP,False
+88,1,0.7674,0.9972,1,High,TP,True
+89,0,0.308,0.0042,0,Low,TN,True
+90,1,0.308,0.9709,0,Low,FN,False
+91,0,0.0848,0.0016,0,Very Low,TN,True
+92,0,0.308,0.0116,0,Low,TN,True
+93,0,0.5008,0.0063,1,Medium,FP,False
+94,0,0.2314,0.0014,0,Very Low,TN,True
+95,1,0.1,0.9801,0,Very Low,FN,False
+96,0,0.1642,0.0038,0,Very Low,TN,True
+97,0,0.1494,0.0011,0,Very Low,TN,True
+98,0,0.2921,0.0154,0,Low,TN,True
+99,0,0.3543,0.0073,0,Low,TN,True
+100,1,0.5435,0.9966,1,Medium,TP,True
+101,1,0.8418,0.9968,1,High,TP,True
+102,0,0.4916,0.0043,0,Low,TN,True
+103,0,0.4987,0.0159,0,Low,TN,True
+104,1,0.8573,0.989,1,High,TP,True
+105,1,0.9737,0.9943,1,High,TP,True
+106,0,0.1081,0.0039,0,Very Low,TN,True
+107,1,0.5435,0.998,1,Medium,TP,True
+108,0,0.0796,0.0062,0,Very Low,TN,True
+109,0,0.3724,0.0061,0,Low,TN,True
+110,0,0.3204,0.019,0,Low,TN,True
+111,1,0.144,0.9769,0,Very Low,FN,False
+112,0,0.1605,0.0021,0,Very Low,TN,True
+113,1,0.8489,0.9989,1,High,TP,True
+114,1,0.7739,0.9986,1,High,TP,True
+115,1,0.5639,0.9865,1,Medium,TP,True
+116,1,0.6533,0.9995,1,Medium,TP,True
+117,0,0.282,0.0024,0,Low,TN,True
+118,1,0.4991,0.9794,0,Low,FN,False
+119,1,0.791,0.9997,1,High,TP,True
+120,0,0.5141,0.0171,1,Medium,FP,False
